@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anusha
 - 👀 I’m interested in using Python for Automation
-- 🌱 I’m currently learning Network Automation
+- 🌱 I’m currently learning web development frameworks
 
 - 📫 How to reach me : EMail me to pai.anusha23@gmail.com
 
